@@ -22,8 +22,8 @@
   <ul>
     <li><a href="#trueloves"> 1. One true loves </a></li>
     <li><a href="#notmyname"> 2. That's not my name</a></li>
-    <!--<li><a href="#"> 3. </a></li>
-    <li><a href="#"> 4. </a></li>
+    <li><a href="#almond"> 3.Almond </a></li>
+    <!--<li><a href="#"> 4. </a></li>
     <li><a href="#"> 5. </a></li>
     <li><a href="#"> 6. </a></li>
     <li><a href="#"> 7. </a></li>
@@ -87,16 +87,16 @@
     </p>
   </section>
 
-  <!--<section id=" " class="review">
-    <h2> </h2>
-    <p><strong>Author:</strong> </p>
-    <p><strong>Genre:</strong> Fiction</p>
-    <p><strong>Rating:</strong> </p>
+  <section id="almond " class="review">
+    <h2> Almond </h2>
+    <p><strong>Author:</strong> Sohn Won-pyung</p>
+    <p><strong>Genre:</strong> Fiction,Drama</p>
+    <p><strong>Rating:</strong> 4 </p>
     <p><strong>Blurb:</strong>  </p>
     <p><strong>Review:</strong> </p>
   </section>
 
-  <section id=" " class="review">
+  <!--<section id=" " class="review">
     <h2> </h2>
     <p><strong>Author:</strong> </p>
     <p><strong>Genre:</strong> Fiction</p>
@@ -258,5 +258,6 @@
 
 </body>
 </html>
+
 
 
